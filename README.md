@@ -13,8 +13,6 @@ A sleek web app that lets users search for movies and view detailed information 
   - Plot
   - Poster
   - IMDb Ratings
-- ⚡ **Real-Time Search** with responsive UI
-- 🧹 **Graceful Error Handling** for missing or invalid movie queries
 
 ## 🛠️ Built With
 
